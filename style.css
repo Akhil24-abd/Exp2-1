@@ -1,0 +1,28 @@
+    body {
+    padding: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: coral;
+    }
+    .info {
+    color: black;
+    font-family: '"Palatino Linotype", "serif"';
+    font-size: 20;
+
+    }
+    img {
+    border-radius: 30%;
+    }
+    
+    iframe{ 
+        margin : 0 ;
+    }
+    
+    .second{
+    margin: 25px 0;
+    font-size: 0.9em;
+    border: 1px solid rgb(233, 225, 225);
+    box-shadow: 0 0 20px rgba(172, 147, 147, 0.15);
+    width: 100%;
+    }
